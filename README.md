@@ -16,7 +16,7 @@ Current Version 2.0
 <dependency>
     <groupId>com.github.gwtmaterialdesign</groupId>
     <artifactId>gwt-material-jquery</artifactId>
-    <version>2.0-rc7</version>
+    <version>2.0</version>
 </dependency>
 ```
 Snapshot Version 2.1-SNAPSHOT
